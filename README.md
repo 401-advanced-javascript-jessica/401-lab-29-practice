@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-jessica/401-lab-29-practice/pull/2)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-jessica/401-lab-29-practice)
-* [Amplify]()
+* [Amplify](https://master.d37a4s7lxb23b2.amplifyapp.com/)
 
 #### Documentation
 * [styleguide](localhost:6060)
