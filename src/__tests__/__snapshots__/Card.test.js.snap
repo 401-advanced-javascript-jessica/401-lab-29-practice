@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders properly 1`] = `
+<div>
+  <div
+    className="card"
+  >
+    <header
+      condition="Content Record 1"
+    >
+      <h3>
+        Content Record 1
+      </h3>
+    </header>
+    <div
+      className="content"
+    >
+      Content Record 1 Copy Here...
+    </div>
+    <figure>
+      <img
+        alt="This is a picture"
+        src="https://placehold.it/200x100"
+      />
+      <figcaption>
+        This is the title of the picture
+      </figcaption>
+    </figure>
+    <nav
+      className="links"
+    >
+      <ul>
+        <li>
+          <a
+            className="primary"
+            href="https://www.foo.com"
+            title="Click Me"
+          >
+            Click Me
+          </a>
+        </li>
+        <li>
+          <a
+            className="secodary"
+            href="https://www.bar.com"
+            title="Not Me"
+          >
+            Not Me
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+`;

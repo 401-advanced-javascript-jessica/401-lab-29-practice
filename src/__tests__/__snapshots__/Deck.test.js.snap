@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Deck /> renders properly 1`] = `
+<section
+  className="deck"
+>
+  <header>
+    <h2>
+      My Deck of Stuff
+    </h2>
+  </header>
+</section>
+`;
