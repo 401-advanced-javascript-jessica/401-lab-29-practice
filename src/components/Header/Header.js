@@ -1,8 +1,8 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
-export default () => {
-    return (
+const Header = () => {
+  return (
         <>
             <nav>
                 <ul>
@@ -15,5 +15,7 @@ export default () => {
                 </ul>
             </nav>
             </>
-    )
-}
+  );
+};
+
+export default Header;
